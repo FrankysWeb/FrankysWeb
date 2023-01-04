@@ -1,8 +1,8 @@
 # FrankysWeb
  Hi,
  [FrankysWeb](https://www.frankysweb.de/) ist mein Blog über Exchange Server und ActiveDirectory Themen.
- Seit 2010 schreibe ich dort hauptsähclich über Exchange Server Themen. Es gibt zahlreiche einfache
- HowTos und Anleistungen.
+ Seit 2010 schreibe ich dort hauptsächlich über Exchange Server Themen. Es gibt zahlreiche einfache
+ HowTos und Anleitungen.
  
  Da sich mit der Zeit zahlreiche PowerShell Scripte angesammelt haben, veröffentliche ich die Scripte nun
  zusätzlich zu meinem Blog auch hier. Alle Scripte stehen frei zur Verfügung, müssen jedoch meist an die 
